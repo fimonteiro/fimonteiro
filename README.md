@@ -22,7 +22,11 @@ I’m Filipe Monteiro, a senior software engineer in test, creative coder, and w
 ![](https://img.shields.io/badge/Test-Robot-informational?style=flat&logo=Robot-Framework&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Etaoin-informational?style=flat&logo=Etaoin&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-JMeter-informational?style=flat&logo=Apache-JMeter&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-K6-informational?style=flat&logo=K6&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Gatling-informational?style=flat&logo=Gatling&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Restassured-informational?style=flat&logo=Restassured&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Insomnia-informational?style=flat&logo=Insomnia&logoColor=white&color=4AB197)
 
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=4AB197)
